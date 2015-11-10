@@ -1,2 +1,2 @@
 # Git Practice
-My favorite candy is candy corn!
+My favorite candy is twizzlers!
