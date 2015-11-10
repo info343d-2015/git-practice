@@ -1,3 +1,2 @@
 # Git Practice
-My favorite candy is Kit-Kat chocolate bars.
-
+My favorite dessert is brownies.
