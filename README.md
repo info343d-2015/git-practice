@@ -1,2 +1,4 @@
 # Git Practice
-My all brokenfavorite candy is M&M's, because they're great!
+
+My favorite candy is Skittles, especially blue ones
+
